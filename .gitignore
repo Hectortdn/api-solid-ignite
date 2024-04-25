@@ -1,0 +1,9 @@
+//Dependecies
+node_modules
+
+//Build
+build
+
+
+//Enviromet
+.env
