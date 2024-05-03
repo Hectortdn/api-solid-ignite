@@ -7,5 +7,5 @@ app
     port: env.PORT,
   })
   .then(() => {
-    console.warn("HTTP erver Running");
+    console.warn("HTTP server Running");
   });
